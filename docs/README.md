@@ -140,7 +140,7 @@ TypeScript, Next.js, ChakraUI, microCMS
 - ヘッドレスブラウザを用いた動的 OGP 生成機能
 - HTML パーサーを利用した目次機能
 
-#### [リアルタイムチャットアプリ](https://firebase-chat-app-eta.vercel.app)
+<!-- #### [リアルタイムチャットアプリ](https://firebase-chat-app-eta.vercel.app)
 
 【使用技術】
 
@@ -156,7 +156,7 @@ Cloud Functions, Emulator Suite)
 
 - Slack ライクなチャット画面
 - 認証フロー
-- Identicon の採用
+- Identicon の採用 -->
 
 ---
 
