@@ -4,8 +4,7 @@
   "description": "resume template",
   "scripts": {
     "lint": "textlint docs/README.md",
-    "build:pdf": "md-to-pdf docs/README.md --config-file ./pdf-configs/config.js",
-    "package-update": "yarn upgrade-interactive --latest"
+    "build:pdf": "md-to-pdf docs/README.md --config-file ./pdf-configs/config.js"
   },
   "keywords": [],
   "devDependencies": {

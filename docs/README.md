@@ -124,8 +124,32 @@ TypeScript, Next.js, MaterialUI, Docker
 ## 業務外活動
 
 ### 主な個人開発活動 (鋭意制作中）
+#### [リアルタイムチャットアプリ](https://firebase-chat-app-eta.vercel.app)
 
-#### [個人ブログ](https://github.com/pocketech/myblog)
+【デモ】
+
+Basic 認証 ユーザ id: chat3 パスワード: chat3 でご覧になれます。
+テスト用アカウント email: chengtailangk76@gmail.com pass: Test1234
+※ 推奨環境はモバイルの IOSChrome です。PCChrome だとメッセージのスクロールに不具合があります。
+※ 新規登録して触ってみて頂くことも可能ですが、投稿内容やユーザー情報はこちら側で予告なく削除する場合がご
+ざいますのでご了承ください。
+
+【使用技術】
+
+TypeScript, Next.js, ChakraUI, Firebase(Authentication, Cloud Firestore, Storage, Cloud Functions, Emulator
+Suite)
+
+【モチベーション】
+
+ポーリングに頼らないチャットアプリケーションをサクッと作ってみたかった。
+
+【ハイライト (README の Best Parts にも記載しております)】
+
+- Slack ライクなチャット画面
+- 認証フロー
+- Identicon の採用
+
+#### [個人ブログ(制作途中)](https://github.com/pocketech/myblog)
 
 【使用技術】
 
@@ -140,23 +164,15 @@ TypeScript, Next.js, ChakraUI, microCMS
 - ヘッドレスブラウザを用いた動的 OGP 生成機能
 - HTML パーサーを利用した目次機能
 
-<!-- #### [リアルタイムチャットアプリ](https://firebase-chat-app-eta.vercel.app)
+#### [Recoil TODO App](https://github.com/pocketech/recoil-todoapp)
 
 【使用技術】
 
-TypeScript, Next.js, ChakraUI,
-Firebase(Authentication, Cloud Firestore, Storage,
-Cloud Functions, Emulator Suite)
+TypeScript, Next.js, ChakraUI, Recoil
 
 【モチベーション】
 
-ポーリングに頼らないチャットアプリケーションをサクッと作ってみたかった。
-
-【ハイライト】
-
-- Slack ライクなチャット画面
-- 認証フロー
-- Identicon の採用 -->
+Recoil での状態管理を試してみたかった
 
 ---
 
