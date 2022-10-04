@@ -131,7 +131,7 @@ TypeScript, Next.js, MaterialUI, Docker
 Basic 認証 ユーザ id: chat3 パスワード: chat3 でご覧になれます。
 テスト用アカウント email: chengtailangk76@gmail.com pass: Test1234
 ※ 推奨環境はモバイルの IOSChrome です。PCChrome だとメッセージのスクロールに不具合があります。
-※ 新規登録して触ってみて頂くことも可能ですが、投稿内容やユーザー情報はこちら側で予告なく削除する場合がご
+※ 新規登録して触ってみていただくことも可能ですが、投稿内容やユーザー情報はこちら側で予告なく削除する場合がご
 ざいますのでご了承ください。
 
 【使用技術】
